@@ -1,3 +1,5 @@
+Mahesh--[![GCP Python 3.9](https://github.com/mahesh-vusa/mlopschapter1/actions/workflows/gcp.yml/badge.svg)](https://github.com/mahesh-vusa/mlopschapter1/actions/workflows/gcp.yml)
+
 ![Python application test with Github Actions](https://github.com/noahgift/github-actions-demo/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
 
 # github-actions-demo
